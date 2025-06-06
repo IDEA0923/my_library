@@ -47,3 +47,6 @@ net_https.hpp :
         
         cout<<nt.recv()<<endl;
     }
+
+for built "net_https" use : 
+    g++ -std=c++17 m.cpp -lssl -lcrypto
