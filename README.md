@@ -1,4 +1,4 @@
-THis is a simple lib for work with network at C++ linux 
+This is a simple lib for work with network at C++ linux 
 
 (sorry , but righ now for use this lib you need copy "idea_lib" folder for your project )
 
